@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Test Post 1"
+date:   2024-03-17 13:31:56 -0400
+categories: jekyll update
+---
+This is a test post.
+
+{% highlight bash %}
+echo "hello world"
+{% endhighlight %}
+
+Check out the [GitHub][github] for more info.
+
+[github]: https://github.com/
+
